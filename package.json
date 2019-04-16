@@ -1,0 +1,16 @@
+{
+  "name": "GraphQL_DEMO",
+  "version": "1.0.0",
+  "description": "GraphQL testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anoop B",
+  "license": "",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  }
+}
