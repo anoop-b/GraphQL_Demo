@@ -8,7 +8,7 @@ Run `npm install` from the root directory.
 `node server.js`
 
 ## Make changes to the App
-Edit the Contents of `server.js` file
+Edit the Contents of `server.js` file to make changes to graphQL server.
 
 ## Screenshot
 <img src="screenshots/image.png">
